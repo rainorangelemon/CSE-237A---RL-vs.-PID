@@ -4,7 +4,9 @@ Chenning Yu (solo project)
 
 ## Summary
 
-This is the final project of [CSE 237A](https://cseweb.ucsd.edu/classes/wi20/cse237A-a/index.html) at UCSD. Grad some coffee and watch [an amazing video here](./PID.mp4)! 
+This is the final project of [CSE 237A](https://cseweb.ucsd.edu/classes/wi20/cse237A-a/index.html) at UCSD. Grad some coffee and watch [an amazing video here](./PID.mp4)!
+
+[A report in more details](report.pdf) is also provided!
 
 ## Motivation
 
